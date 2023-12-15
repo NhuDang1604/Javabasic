@@ -9,4 +9,5 @@ public static void main(String[] args) {
 	System.out.println("Nhu");
 	System.out.println(tensach);
 }
+//sysout= println
 }
