@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	tensach ="laptrinhvien";
 	System.out.println("Nhu");
 	System.out.println(tensach);
+	
 }
 //sysout= println
 }
